@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Isuru Udara</h1>
-<h3 align="center">Welcome to my GitHub</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile" > </h1>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruudara2001&label=Profile%20views&color=0e75b6&style=flat" alt="isuruudara2001" /> </p>
+
+## 💫 About Me:
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 - 🌱 I’m currently learning **Java, MERN Stack, Python.**
 
